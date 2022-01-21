@@ -1,0 +1,11 @@
+.page-header{
+    background: var(--light-blue);
+    width: 100%;
+    height: 126px;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 0;
+}

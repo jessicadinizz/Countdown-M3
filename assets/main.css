@@ -1,0 +1,5 @@
+@import '../Header/styles.css';
+@import './global.css';
+@import './variables.css';
+@import '../Footer/styles.css';
+@import '../Countdown/countdown.css';
